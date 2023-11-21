@@ -5,7 +5,7 @@
   /* outline:1px solid ;*/
 }
 body {
-  background: rgb(31, 38, 130);
+  background: #ff6609;
   height: 100%;
   margin: 0;
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@ h1 {
   line-height: 1.5;
 }
 .go-home {
-  background: #e83890;
+  background: #121242;
   border: none;
   padding: 25px 30px;
   margin: 30px 0;
@@ -65,7 +65,7 @@ h1 {
 }
 .footer-like {
   margin-top: auto;
-  background: rgb(31, 38, 130);
+  background: #121242;
   padding: 6px;
   text-align: center;
 }
